@@ -28,7 +28,7 @@ Construir uma base sólida para desenvolvimento **Web moderno**, evoluindo do **
 - Angular 9 (componentes, diretivas, pipes, services etc.)
 
 ## Progresso
-- [ ] Iniciando o curso
+- [x] Iniciando o curso
 - [ ] Fundamentos (HTML/CSS/JS)
 - [ ] Frameworks/Bibliotecas (React/Vue/Bootstrap/jQuery)
 - [ ] Backend (Node.js)
